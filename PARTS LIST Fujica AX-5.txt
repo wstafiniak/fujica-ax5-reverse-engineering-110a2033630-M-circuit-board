@@ -1,5 +1,6 @@
 PARTS LIST
 FUJICA AX-5
+Fujica AX-5 nr.part 2-64 110a2033630 M-circuit board assemly
 
 REF NO.   PART NO.          PART NAME                  
 7 - 1     230M05550R        Lead wire (red)            
@@ -49,4 +50,5 @@ REF NO.   PART NO.          PART NAME
 116K278620        Capacitor (0.1μF)                              
 116K278570        Capacitor (0.22μF)                             
 116K278910        Capacitor (0.33μF)                             
+
 116K278640        Capacitor (0.47μF)           
