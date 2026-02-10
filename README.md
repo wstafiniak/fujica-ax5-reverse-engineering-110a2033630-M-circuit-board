@@ -18,18 +18,17 @@ vintage photographic equipment.
 - Recreate the electrical schematic with referenced parts  
 - Design a new PCB based on the original layout  
 - Preserve technical knowledge for future repair and restoration work  
-
----
+<img  height="200" alt="Fujica" src="https://github.com/user-attachments/assets/1154fff7-6fdc-4bae-81af-c74efea3eee0" />
 
 ## Repository / folder contents
 
 ### 📁 DXF files
 - DXF files containing the **reconstructed PCB outline**, mounting holes,
   and layout reference used as a base for further PCB design.
+<img  height="400" alt="pcb_fujica_02" src="https://github.com/user-attachments/assets/56d2e146-5357-48be-ad19-4bf0241fa445" />
 
 ### 📁 BOM / parts list
 - **Bill of Materials (BOM)** including:
-  - component values
   - part types
   - reference designators
 
@@ -38,12 +37,14 @@ vintage photographic equipment.
   - recreated through PCB analysis
   - with fully assigned components
   - prepared in EasyEDA
+<img  height="400" alt="pcb_fujica_12" src="https://github.com/user-attachments/assets/722ce97e-2996-450e-a79b-ddad965629bb" />
 
 ### 📁 PCB (EasyEDA)
 - **New PCB design**:
   - functionally compatible with the original board
   - created in EasyEDA
   - ready for modification or manufacturing
+<img  height="400" alt="pcbfujica_1" src="https://github.com/user-attachments/assets/a905c45b-5a55-4e59-9e19-0899571641cf" />
 
 ---
 
